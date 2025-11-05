@@ -2,6 +2,7 @@
 
 This project explores **NBA shot data** for the **Chicago Bulls (2014–2024)** using R.  
 It combines data collection from the `nbastatR` package with custom visualizations to analyze team shot efficiency, volume, and trends over time.
+Note this doesn't include data from 2017 (missing data).
 
 ---
 
