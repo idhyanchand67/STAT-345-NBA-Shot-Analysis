@@ -5,7 +5,7 @@ It combines data collection from the `nbastatR` package with custom visualizatio
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 - **Goal:** Examine how the Bulls’ shot selection and efficiency have evolved across seasons.  
 - **Tools Used:** R, ggplot2, gganimate, nbastatR, dplyr, viridis, cowplot.  
 - **Main Deliverables:**
@@ -17,7 +17,7 @@ It combines data collection from the `nbastatR` package with custom visualizatio
 
 ---
 
-## 🧠 Key Findings
+## Key Findings
 - Highest efficiency occurs in the **restricted area** and **above-the-break three** zones  
 - **Midrange shots** remain the lowest-efficiency area  
 - **Three-point attempts** have increased steadily in recent seasons  
@@ -25,7 +25,7 @@ It combines data collection from the `nbastatR` package with custom visualizatio
 
 ---
 
-## 🧰 Data Source
+##  Data Source
 Shot-level data retrieved using the [`nbastatR`](https://github.com/abresler/nbastatR) package via the `teams_shots()` function.  
 Data covers **regular-season games** for the Chicago Bulls between **2014–2024**.
 
@@ -34,4 +34,4 @@ Data covers **regular-season games** for the Chicago Bulls between **2014–2024
 ## 🏀 Author
 **Isaac Dhyanchand**  
 University of Wisconsin–La Crosse  
-Course: STAT 345 — Statistical Data Visualization  
+Course: STAT 345
